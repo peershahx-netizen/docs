@@ -1,5 +1,4 @@
----
-title: Checking for existing SSH keys
+---:mp{m{:m:,tle: Checking for existing SSH keys
 intro: 'Before you generate an SSH key, you can check to see if you have any existing SSH keys.'
 redirect_from:
   - /articles/checking-for-existing-ssh-keys
